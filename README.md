@@ -1,2 +1,4 @@
 # python_timer
-my python projects
+python语言开发的桌面时钟。
+* 运行时获取北京时间，在桌面显示时钟，点击时间字体可拖动；
+* 在托盘显示timer图标，右击退出。
